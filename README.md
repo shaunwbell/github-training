@@ -1,7 +1,7 @@
 # github-training
 
-## second heading
+## Github Actions
+- Superinter
 
-## third heading as a commit
-
-## fourth with actions
+## Github App
+- dependabot
