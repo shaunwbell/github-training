@@ -1,7 +1,7 @@
 # github-training
 
 ## Github Actions
-- Superinter
+- SuperLinter
 
 ## Github App
 - dependabot
